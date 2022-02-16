@@ -7,7 +7,8 @@ I'm João Paulo Miranda Matias, and a web and mobile developer from Polícia Mil
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaopaulomirandamatias&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![](https://komarev.com/ghpvc/?username=/joaopaulomirandamatias)
+![](https://komarev.com/ghpvc/?username=joaopaulomirandamatias&color=green)
+
 
 
 #### :woman_technologist: Languages
