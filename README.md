@@ -1,7 +1,7 @@
 ### Hi there, welcome to my GitHub 👋
 
 
-I'm João Paulo Miranda Matias, and a web and mobile developer from Polícia Militar do Amapá.
+I'm João Paulo Miranda Matias, and a web and mobile developer from Polícia Militar do Amapá. And mobile developer from Laboratório Bridge.
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaopaulomirandamatias&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
