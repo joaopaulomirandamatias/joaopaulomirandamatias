@@ -15,8 +15,10 @@ Sou movido por desafios, pela **transformação digital** e pelo poder da tecnol
 
 - 🧩 Arquitetura de Software e Integração de Sistemas  
 - 📱 Desenvolvimento Mobile (Flutter) e Web (React, Next.js)  
-- ⚙️ Desenvolvimento Full Stack (Node.js, PHP, Adianti Framework)  
+- ⚙️ Desenvolvimento Full Stack (Node.js, PHP, Adianti Framework, Laravel, NestJS)  
+- 🤖 Automação e IA: N8N, Typebot, Evolution API e ChatGPT  
 - ☁️ Infraestrutura, APIs e Governança de Dados  
+- 🎨 Design de Interfaces com Tailwind CSS  
 - 🧭 Liderança Técnica e Gestão de Projetos de TI  
 - 🧾 Transformação Digital no Setor Público (GovTech)  
 
@@ -25,16 +27,16 @@ Sou movido por desafios, pela **transformação digital** e pelo poder da tecnol
 ## 🛠️ Tecnologias e Ferramentas  
 
 ### 💻 Linguagens de Programação  
-HTML5, CSS3, JavaScript, PHP, Dart  
+HTML5, CSS3, JavaScript, PHP, Dart, TypeScript  
 
 ### 🗄️ Banco de Dados  
 MySQL, PostgreSQL, MongoDB, SQLite  
 
 ### ⚙️ Frameworks e Bibliotecas  
-Flutter, React, Next.js, Node.js, Express.js, GraphQL, Bootstrap, Adianti Framework  
+Flutter, React, Next.js, Node.js, Express.js, GraphQL, Bootstrap, Adianti Framework, Laravel, NestJS, Tailwind CSS  
 
-### 🧩 Ferramentas e DevOps  
-Git, NPM, Insomnia, Docker, Supabase  
+### 🤖 Plataformas e Ferramentas Inteligentes  
+N8N, Typebot, Evolution API, ChatGPT, Supabase, Docker, Insomnia, Git, NPM  
 
 ---
 
