@@ -1,49 +1,87 @@
-# 👋 Olá! Bem-vindo ao meu GitHub  
+# 👋 Olá, seja bem-vindo ao meu GitHub!  
 
 ## 🚀 Sobre mim  
-Eu sou **João Paulo Miranda Matias**, um **Desenvolvedor Web & Mobile**, **Diretor de Tecnologia da Informação e Comunicação do Detran Amapá** e **Capitão da Polícia Militar**. Tenho experiência em desenvolvimento de software, liderança de equipes e criação de soluções tecnológicas inovadoras.
 
-💡 Apaixonado por desafios e pelo desenvolvimento de sistemas que impactam positivamente a sociedade.
+Sou **João Paulo Miranda Matias**, **Desenvolvedor Web & Mobile**, **Diretor de Tecnologia da Informação e Comunicação do DETRAN Amapá** e **Capitão da Polícia Militar**.  
+
+Atuo há vários anos com **tecnologia, inovação e liderança técnica**, desenvolvendo soluções que geram impacto real na vida das pessoas e modernizam instituições públicas e privadas.  
+Sou movido por desafios, pela **transformação digital** e pelo poder da tecnologia em tornar processos mais simples, inteligentes e acessíveis.  
+
+💡 *Acredito que tecnologia e propósito caminham juntos.*  
+
+---
+
+## 🧠 Áreas de Atuação  
+
+- 🧩 Arquitetura de Software e Integração de Sistemas  
+- 📱 Desenvolvimento Mobile (Flutter) e Web (React, Next.js)  
+- ⚙️ Desenvolvimento Full Stack (Node.js, PHP, Adianti Framework)  
+- ☁️ Infraestrutura, APIs e Governança de Dados  
+- 🧭 Liderança Técnica e Gestão de Projetos de TI  
+- 🧾 Transformação Digital no Setor Público (GovTech)  
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas  
 
-### 📌 **Linguagens de Programação**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)  
+### 💻 Linguagens de Programação  
+HTML5, CSS3, JavaScript, PHP, Dart  
 
-### 🗄️ **Banco de Dados**  
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)  
+### 🗄️ Banco de Dados  
+MySQL, PostgreSQL, MongoDB, SQLite  
 
-### 📲 **Frameworks e Bibliotecas**  
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
-![GraphQL](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)  
-![Adianti Framework](https://img.shields.io/badge/Adianti_Framework-ff6600?style=for-the-badge&logo=php&logoColor=white)  
+### ⚙️ Frameworks e Bibliotecas  
+Flutter, React, Next.js, Node.js, Express.js, GraphQL, Bootstrap, Adianti Framework  
 
-### ⚡ **Ferramentas e Outros**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)  
-![Insomnia](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white)  
+### 🧩 Ferramentas e DevOps  
+Git, NPM, Insomnia, Docker, Supabase  
 
 ---
 
-## 📬 Como me encontrar  
+## 🧱 Projetos e Iniciativas  
 
-📌 **LinkedIn**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaopaulomirandamatias/)
+### 🛡️ **Polícia Militar do Amapá (PMAP)**  
+**Função:** Gerente de Desenvolvimento e Desenvolvedor de Software  
+**Principais atividades:** Desenvolvimento do **Sistema Integrado de Gestão da Polícia Militar do Amapá**, uma plataforma com múltiplos módulos — RH, férias, gestão de escala, promoções, dependentes, entre outros recursos corporativos da PMAP.  
+Responsável também pelo **aplicativo oficial da PMAP**, desenvolvido em **Dart** com o **framework Flutter**.
 
+---
 
-📌 **GitHub Stats**  
-![Profile Views](https://komarev.com/ghpvc/?username=joaopaulomirandamatias&color=green)
+### 💻 **Você Telecom**  
+**Função:** Desenvolvedor de Software (PJ)  
+**Principais atividades:** Desenvolvimento do **App Minha Você** utilizando **Flutter**.  
+Desenvolvimento do **Portal do Usuário** com **Next.js (frontend)**, incluindo integrações com **APIs, autenticação** e **sistemas internos de gestão de clientes**.
+
+---
+
+### 🧪 **Laboratório Bridge (UFSC / MEC)**  
+**Função:** Desenvolvedor Mobile  
+**Principais atividades:** Desenvolvimento do aplicativo **Jornada do Estudante** do **Ministério da Educação (MEC)**.  
+Aplicativo desenvolvido em **Dart** com **Flutter**, utilizando **GetX**, **Firebase** e **REST API**.  
+O app reúne dados acadêmicos de estudantes do ensino superior de todo o Brasil.
+
+---
+
+### 🚗 **DETRAN Amapá**  
+**Projeto:** Habilita Amapá  
+**Descrição:** Sistema de **cadastro para o programa de CNH Social do Estado do Amapá**, previsto para lançamento oficial em breve.  
+
+---
+
+## 📊 GitHub Insights  
+
+![Profile Views](https://komarev.com/ghpvc/?username=joaopaulomirandamatias&color=brightgreen)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaopaulomirandamatias&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaopaulomirandamatias&layout=compact&theme=radical)  
+
+---
+
+## 📫 Conecte-se comigo  
+
+📍 **LinkedIn:** [João Paulo Miranda Matias](https://www.linkedin.com/in/joaopaulomirandamatias/)  
+💼 **GitHub:** [@joaopaulomirandamatias](https://github.com/joaopaulomirandamatias)  
+✉️ **E-mail:** [joaopaulomirandamatias@gmail.com](mailto:joaopaulomirandamatias@gmail.com)  
+
+---
+
+✨ *"Transformar tecnologia em soluções que melhoram vidas — esse é o meu propósito."*  
