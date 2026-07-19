@@ -2,7 +2,7 @@
 
 ## 🚀 Sobre mim  
 
-Sou **João Paulo Miranda Matias**, **Desenvolvedor Web & Mobile**, **Diretor de Tecnologia da Informação e Comunicação do DETRAN Amapá** e **Capitão da Polícia Militar**.  
+Sou **João Paulo Miranda Matias**, **Desenvolvedor Web & Mobile**, **ex-Diretor de Tecnologia da Informação e Comunicação do DETRAN Amapá** e **Capitão da Polícia Militar**.  
 
 Atuo há vários anos com **tecnologia, inovação e liderança técnica**, desenvolvendo soluções que geram impacto real na vida das pessoas e modernizam instituições públicas e privadas.  
 Sou movido por desafios, pela **transformação digital** e pelo poder da tecnologia em tornar processos mais simples, inteligentes e acessíveis.  
